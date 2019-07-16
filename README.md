@@ -1,6 +1,8 @@
 # mould
 
-* viewpager+tablayout+fragment
+=* viewpager+tablayout+fragment
+
 ![Image text](https://github.com/Xxxseventea/mould/blob/master/image/333.gif)
-* recyclerview+swiperefresh
+=* recyclerview+swiperefresh
+
 ![Image text](https://github.com/Xxxseventea/mould/blob/master/image/rv.gif)
